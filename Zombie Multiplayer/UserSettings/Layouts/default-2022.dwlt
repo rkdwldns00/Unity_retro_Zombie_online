@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 780.8
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Project
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -309,7 +309,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 8a170000
       m_LastClickedID: 0
       m_ExpandedIDs: d4faffff
       m_RenameOverlay:
@@ -327,7 +327,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
+        m_ClientGUIView: {fileID: 7}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -421,7 +421,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Resource
+    - Assets/Scripts
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -437,7 +437,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 40060000
     m_LastClickedID: 1600
-    m_ExpandedIDs: 00000000745e0000765e0000785e0000
+    m_ExpandedIDs: 00000000745e0000765e0000785e00007a5e00007c5e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -462,10 +462,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 0}
+    scrollPos: {x: 0, y: 40.200012}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000745e0000765e0000785e0000
+    m_ExpandedIDs: ffffffff00000000745e0000765e0000785e00007a5e00007c5e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -656,7 +656,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 1
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: -170.39996, y: -26.399994}
+      snapOffsetDelta: {x: -164.79999, y: -26.399994}
       snapCorner: 3
       id: Tool Settings
       index: 0
@@ -941,9 +941,9 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 48, y: 48}
+      snapOffset: {x: 48, y: -305.59998}
       snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
+      snapCorner: 2
       id: NavigationOverlay
       index: 10
       layout: 4
@@ -985,9 +985,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -2.1801453, y: -2.2475042, z: 6.4619246}
+    m_Target: {x: -0.89276505, y: 2.8588052, z: -0.892066}
     speed: 2
-    m_Value: {x: -2.1801453, y: -2.2475042, z: 6.4619246}
+    m_Value: {x: -0.89276505, y: 2.8588052, z: -0.892066}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1033,9 +1033,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.19162837, y: 0.77760774, z: -0.2820965, w: -0.52823055}
+    m_Target: {x: -0.072524264, y: 0.90887314, z: -0.17810449, w: -0.37009466}
     speed: 2
-    m_Value: {x: -0.19162825, y: 0.77760726, z: -0.28209633, w: -0.52823025}
+    m_Value: {x: -0.07252421, y: 0.9088725, z: -0.17810436, w: -0.3700944}
   m_Size:
     m_Target: 9.680636
     speed: 2
